@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 9172995100888855942}
   - component: {fileID: 133861192873407222}
   m_Layer: 5
-  m_Name: Button
+  m_Name: ChessPiece2D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
